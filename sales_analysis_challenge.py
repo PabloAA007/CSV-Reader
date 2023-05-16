@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Student Do: Sales Analysis.
+"""Sales Analysis.
 
 This script will use the Pathlib library to set the file path,
 use the csv library to read in the file, and iterate over each
